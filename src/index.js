@@ -24,7 +24,14 @@ const initialState = {
                 to: "TeamWoz@Woz.org",
                 title: "Do you know PHP?",
                 content: "Dear Woz.  We are in need of a PHP expert.  Fast.  Zuck x"
-            }
+            },
+            // 2: {
+            //     id: 2,
+            //     from: "zuck@facebook.com",
+            //     to: "TeamWoz@Woz.org",
+            //     title: "Do you know PHP?",
+            //     content: "Dear Woz.  We are in need of a PHP expert.  Fast.  Zuck x"
+            // }
         }
     },
     spam: {
